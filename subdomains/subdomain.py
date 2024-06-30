@@ -1,3 +1,9 @@
+"""
+    Detect subdomains using Brute Force
+    By: Carlos Javier Blanco
+    xcaim04, OPEN SOURCE
+"""
+
 import requests
 from os import path
 import argparse

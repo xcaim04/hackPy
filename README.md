@@ -1,4 +1,5 @@
 # Hacking with Python
+OPEN SOURCE
 
 ## Details
 
@@ -12,3 +13,7 @@
     pip install argparse
     pip install requests
 ```
+
+### OTHER TOOLS
+
+> [Sublist3r for detect subdomains](https://github.com/aboul3la/Sublist3r)
